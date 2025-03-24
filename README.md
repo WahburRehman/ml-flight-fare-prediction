@@ -23,7 +23,7 @@ Flight Fare Prediction is a machine learning project that leverages historical f
 
 ## 📊 Usage
 
-- Open the Jupyter Notebook and execute the cells step by step to preprocess data, train models, and evaluate performance.
+- Execute the cells step by step in Jupyter Notebook or run the script in any Python-supported IDE to preprocess data, train models, and       evaluate performance.
 - Modify hyperparameters in the `RandomizedSearchCV` section to experiment with different tuning strategies.
 
 ## 🔥 Results
